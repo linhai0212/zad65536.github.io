@@ -1,5 +1,6 @@
 const atoPuzzleStatus = new Object();
 var id;
+// Test edit.
 
 id="octopus";
 atoPuzzleStatus[id] = new Object();
